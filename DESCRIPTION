@@ -1,0 +1,12 @@
+Package: alimap
+Type: Package
+Title: Chinese Maps from Aliyun
+Version: 0.1.0
+Authors@R: person("Yu", "Liu", email = "microly@foxmail.com", role = c("aut", "cre"))
+Maintainer: Yu Liu <microly@foxmail.com>
+Description: Supply Chinese maps (sf objects) from aliyun (http://datav.aliyun.com/tools/atlas).
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports: sf, dplyr
+RoxygenNote: 6.1.1
