@@ -11,6 +11,8 @@ devtools::install_github("microly/alimap")
 ## How to get the maps :
 
 ```r
+library(alimap)
+
 # get the national map of China.
 map <- map_nation()
 plot(map)
